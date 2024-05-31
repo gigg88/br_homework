@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Montserrat", sans-serif;
+}
+
+.my_cv_heading{
+    padding: 5px 5px;
+    background-color: beige;
+}
+
+.personal_information_heading {
+    padding: 5px 5px;
+}
+
+.img img{
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.short_information li, .employment_list li {
+    list-style-type: none;
+    margin-left: 5px;
+}
+
+
+.short_skill{
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.employment_heading {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.information_current_employer_heading {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;  
+}
+
+.employment_list {
+    margin-top: 5px;
+    margin-bottom: 5px;  
+}
+
